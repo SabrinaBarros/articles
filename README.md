@@ -2,6 +2,11 @@
 
 😿Repository for saving and versioning my programming articles.👺
 
+| About | Notes | Post |
+| :---------: | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- |
+| Markdown 📥 | [Notes](/markdown-articles/o-que-e-markdown.md) | [Dev.to](https://dev.to/sabrinabarros/o-que-e-markdown-e-como-ele-pode-melhorar-o-seu-readme-no-github-2n2l) |
+
+
 # New article guide! 📝
 
 1. Define the theme and the problem with clarity. 💡
